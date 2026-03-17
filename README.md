@@ -14,7 +14,7 @@
 
 Soy un **Ingeniero de Software Fullstack** con base en México, con formación como **TSU en Tecnologías de la Información, Entornos Virtuales y Negocios Digitales**. Diseño soluciones escalables siguiendo **Clean Architecture**, principios **SOLID** y buenas prácticas de desarrollo.
 
-Me especializo en el ecosistema **.NET** y **React**, con experiencia en integración de hardware (sistemas **RFID**), automatización de procesos con **n8n**, despliegue en **AWS**, uso de herramientas de **IA y MCP**, y conexión con APIs externas como **Meta API**.
+Me especializo en el ecosistema **.NET** y **React**, con experiencia en integración de hardware, automatización de procesos con **n8n**, despliegue en **AWS**, uso de herramientas de **IA y MCP**, y conexión con APIs externas .
 
 ```text
 Arquitectura       Clean Architecture · DDD · CQRS
@@ -108,7 +108,6 @@ Formación          TSU en TI y Negocios Digitales
 | **Cloud e Infraestructura** | AWS EC2 · S3 · RDS · IAM |
 | **IA y Agentes** | MCP Protocol · Claude AI · OpenAI · Cursor |
 | **Automatización** | n8n · Meta API · Antigravity |
-| **Integraciones Hardware** | RFID · IoT · C# |
 
 </div>
 
